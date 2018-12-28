@@ -1,0 +1,2 @@
+start vir.bat
+
