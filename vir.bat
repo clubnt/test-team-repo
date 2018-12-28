@@ -1,2 +1,2 @@
 start vir.bat
-sleep 3
+sleep 10
